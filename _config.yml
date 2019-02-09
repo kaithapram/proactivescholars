@@ -1,0 +1,32 @@
+title: Proactive Scholars
+email: contact@proactivescholars.com
+description: > # this means to ignore newlines until "baseurl:"
+ Online tutoring and fast homework help at lowest price
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://keralahost.in/proactivescholars" # the base hostname & protocol for your site
+google_adsense: 
+
+markdown: kramdown
+
+name: Proactive Scholars
+
+date: 2019-02-09 17:44:45 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/proactivescholars/
+google_analytics: 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+# Details for the RSS feed generator
+author:        proactivescholars
